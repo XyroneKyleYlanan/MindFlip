@@ -20,10 +20,19 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.xyroneylanan.MindFlip"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c63ea7f5-ae99-4792-b714-9b6bb0983502"
+      }
+    },
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
