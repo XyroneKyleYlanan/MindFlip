@@ -2,6 +2,7 @@
   "expo": {
     "name": "MindFlip",
     "slug": "MindFlip",
+    "description": "MindFlip is a mobile flashcard app that helps you study smarter. Create custom decks, flip through flashcards, quiz yourself, and track your sessions with a built-in timer — all in one place.",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
